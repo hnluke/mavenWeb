@@ -15,12 +15,12 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.48" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.2.RELEASE" />
           <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1" />
