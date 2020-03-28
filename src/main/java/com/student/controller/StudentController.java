@@ -20,7 +20,7 @@ import java.util.List;
  * @date ：Created in 2020/3/22 15:55
  * @description：Demo
  * @modified By：
- * @version: 1.0$  版本更新为1.1
+ * @version: 1.0$  版本更新为 开发人员1.2
  */
 @Controller
 @RequestMapping("/student")
